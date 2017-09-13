@@ -22,3 +22,8 @@ ___
 [Link to Moodle](https://moodle.umt.edu/course/view.php?id=17716)
 
 ![Screenshot of my Directory](./scripts/screenshot1.ong)
+
+___
+repo in Atom
+
+I have a pretty good job with this assignment. I think.
