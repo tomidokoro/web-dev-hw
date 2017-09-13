@@ -27,3 +27,5 @@ ___
 repo in Atom
 
 I have a pretty good job with this assignment. I think.
+
+I still need to see the instruction to work this.
