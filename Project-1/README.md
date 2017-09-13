@@ -29,3 +29,16 @@ repo in Atom
 I have a pretty good job with this assignment. I think.
 
 I still need to see the instruction to work this.
+
+___
+
+<html>
+   <body>
+      <h1>This is the most important Heading</h1>
+      <p>This text might be an introduction to the rest of the page. <br />And if the page is a long one it might be split up into several sub-headings. Good to know!</p>
+      <h2>This is the second important Heading</h2>
+      <p>Many long articles have sub-headings so to help you follow the structure of what is being written. There may even be sub-sub-headings (or lower-level headings).</p>
+      <h2>Another important Heading</h2>
+      <p>Here you can see another sub-heading followed by an associated paragraph.</p>
+   </body>
+</html>
