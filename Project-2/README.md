@@ -15,3 +15,5 @@
 
 <hr />
 <p>HW-03, Good to know about how to put inside/outside resources to my web page. However, it's little bit hard to find exactly the same instructions I prefer. Some videos contain more variety of toppings or foods than my Bibimbab so it is really depending. Now we have leanred many codes for HTML resources in this class, they are all very useful but hard to memorize. I really impressed my technique for web-design getting better, and I can type the codes much faster than the first time.</p>
+
+<hr />

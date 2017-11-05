@@ -1,0 +1,25 @@
+* {
+    font-family: 'Arvo';
+}
+
+.text-element {
+font-size: 1.5em;
+text-indent 30px;
+}
+
+.text-element:first-letter{
+  color: green
+  font-weight: normal
+}
+.hover-element {
+    font-size: 1em;
+    background-color: #545454;
+    color: #c4c8c4;
+    padding: 1em;
+    text-align: right;
+}
+
+p.first-letter {
+  color: rgb(240, 41, 14);
+  font-size:30px;
+}
