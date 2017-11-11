@@ -29,8 +29,8 @@ p.first-letter {
 
 body {
     font-size: 16pt;
-    font-family: 'Helvetica Neue', 'helvetica', sans-serif;
-    background-color: #fff;
+    font-family: 'Arvo';
+    background-color: rgba(224, 230, 25, 0.43);
     padding: 0;
     margin: 0;
 }
@@ -51,7 +51,7 @@ body {
     float: left;
     width: 25%;
     height: 1000px;
-    background-color: #D3D7DA;
+    background-color: rgb(185, 190, 198);
 }
 
 .site-name {
@@ -59,36 +59,25 @@ body {
     margin-left: 0;
     font-weight: lighter;
     font-size: 1.5em;
-    color: #fff;
-    background-color: #27435C;
+    color: rgb(221, 196, 30);
+    background-color: rgb(226, 56, 19);
 }
 
 .site-logo {
     margin: 0 auto;
-    border-top: 3px dotted #27435C;
+    border-top: 3px outset #27435C;
     width: 75%;
     text-align: right;
 }
 
 .site-logo img {
-    height: 100px;
-    margin-top: -25px;
-    margin-right: -20px;
-}
-
-.side.menuitem {
-    display: block;
-    font-size: 1em;
-    font-weight: lighter;
-    padding: 0.5em;
-    margin: 0.1em 0;
-    text-decoration: none;
-    background-color: #F15F50;
-    color: #fff;
+    height: 200px;
+    margin-top: -15px;
+    margin-right: -10px;
 }
 
 .side.menuitem:hover {
-    background-color: #27A2DE;
+    background-color: rgb(39, 153, 40);
     color: #fff;
 }
 
@@ -104,13 +93,13 @@ body {
     font-size: 0.8em;
     padding-left: 2em;
     margin-top: 0.05em;
-    background-color: #27A2DE;
+    background-color: rgb(213, 171, 23);
     color: #fff;
 }
 
 .dropdown:hover .dropdown-content .side.menuitem.dropdown-item:hover {
     background-color: #fff;
-    color: #27A2DE;
+    color: rgb(49, 45, 236);
 }
 
 .main-container main {
@@ -118,7 +107,7 @@ body {
     padding: 0;
     float: left;
     width: 75%;
-    min-width: 399px;
+    min-width: 400px;
     height: 100%;
     background-color: #fff;
 }
