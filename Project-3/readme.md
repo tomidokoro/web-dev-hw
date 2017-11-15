@@ -33,3 +33,7 @@ Color Picker is really useful and easy package to choose my favorite colors. Whe
 <hr >
 Nov.5</p>
 This week's work is the hardest one. When I put html tags for html source or css, there is no difference on markdown review so I scare about it until finished this work. In this week, I focused on using fonts and colors. I chose Arvo as a font because it is also used in the example of this assignment and looks good appearance for the webpage. I picked red color for some first-letter element that's because I thought it might be attracting people to read more about the paragraph.</p>
+
+<hr >
+<p><h1>Style Plan</h1></p>
+<p>My website is blog. It doen't need to target specfic age or gender because I will write about myself. However, I need to attract them into my website so probably should use brighter color, variety of colorful usages, or good fonts. I think it doesn't necessary to use <b>bold</b> many times because it is not about News and I am not a journalist. However, web contents are super important to get more visitors so it might be better to work on formatting, eye-catching and idea itself.</p>
