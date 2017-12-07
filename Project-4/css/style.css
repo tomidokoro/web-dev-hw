@@ -5,8 +5,8 @@ p{min-width: 600px;
 max-width: 1280px;
 background-color: rgb(232, 231, 238);
 
-div {
-	border: 5px rgb(231, 216, 23);
+.div{
+	border: 5px color rgb(231, 216, 23);
 }
 @media screen and (max-width: 800px) {
 	p {
