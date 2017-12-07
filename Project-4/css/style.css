@@ -12,7 +12,11 @@ position: left;}
 @media screen and (max-width: 800px) {
 	p {
 		width: 50%;
+    order: 2;
+    text-align: center
 	}
 img {
     max-width: 10%;
+    order: 2;
+    text-align: center
 }
