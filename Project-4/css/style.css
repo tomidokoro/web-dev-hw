@@ -9,7 +9,7 @@ position: left;}
 .div{
 	border: 5px color rgb(231, 216, 23);
 }
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 100%) {
 	p {
 		width: 100%;
     order: 1;
@@ -18,10 +18,10 @@ position: left;}
 img-1 {
     max-width: 600px;
     order: 2;
-    text-align: center
+    text-align: right
 }
 img-2 {
     max-width: 600px;
     order: 3;
-    text-align: center
+    text-align: right
 }
