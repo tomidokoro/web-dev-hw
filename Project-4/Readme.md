@@ -23,3 +23,5 @@
 <img src="images/image-2.jpg" alt="Photo">
 <img src="images/image.jpg" alt="Photo">
 <img src="images/image-3.jpg" alt="Photo">
+<hr>
+<p>It is not too hard to sketch and build a website for now, which is I really impressed myself. However, this week we learned many contents about responsive web design that I feel easy to understand its idea but really hard to accomplish it by action. Since I finished to go through the class website's instruction, I was ready to build the website with easy mind. However, it is actually really hard to set up the contents' position and scale because I missed what I was trying to do too many times, and it was totally far away from my sketch so it took too long and rearranged it too many times.
