@@ -1,5 +1,7 @@
 body{background-color:rgb(179, 242, 134);}
-h1{background-color: rgb(222, 55, 26);}
+h1{background-color: rgb(222, 55, 26);
+}
 p{min-width: 600px;
 max-width: 1280px;
-background-color: rgb(232, 231, 238);}
+background-color: rgb(232, 231, 238);
+border: 5px rgb(231, 216, 23)}
