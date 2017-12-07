@@ -2,7 +2,7 @@ body{background-color:rgb(179, 242, 134);}
 h1{background-color: rgb(222, 55, 26);
 }
 p{
-max-width: 600px;
+max-width: 100%;
 background-color: rgb(232, 231, 238);
 position: left;}
 
@@ -11,7 +11,7 @@ position: left;}
 }
 @media screen and (max-width: 100%) {
 	p {
-		width: 100%;
+		width: 600px;
     order: 1;
     text-align: center
 	}
