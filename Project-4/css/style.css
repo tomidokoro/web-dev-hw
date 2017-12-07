@@ -2,7 +2,7 @@ body{background-color:rgb(179, 242, 134);}
 h1{background-color: rgb(222, 55, 26);
 }
 p{
-max-width: 800px;
+max-width: 600px;
 background-color: rgb(232, 231, 238);
 position: left;}
 
@@ -15,8 +15,13 @@ position: left;}
     order: 1;
     text-align: center
 	}
-img {
+img1 {
     max-width: 10%;
     order: 2;
+    text-align: center
+}
+img2 {
+    max-width: 10%;
+    order: 3;
     text-align: center
 }
