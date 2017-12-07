@@ -1,6 +1,6 @@
 body{background-color:rgb(179, 242, 134);}
 h1{background-color: rgb(222, 55, 26);
-}
+font-family: Times;}
 p{
 max-width: 100%;
 background-color: rgb(232, 231, 238);
@@ -9,11 +9,30 @@ position: left;}
 .div{
 	border: 5px color rgb(231, 216, 23);
 }
-@media screen and (max-width: 100%) {
+@media (max-width: 700px){
 	p {
 		width: 100%;
     order: 1;
     text-align: center
+    overflow: auto
+	}
+img-1 {
+    max-width: 600px;
+    order: 2;
+    text-align: center
+}
+img-2 {
+    max-width: 700px;
+    order: 3;
+    text-align: center
+}}
+
+@media (min-width: 1000px){
+	p {
+		width: 100%;
+    order: 1;
+    text-align: center
+    overflow: auto
 	}
 img-1 {
     max-width: 600px;
@@ -24,4 +43,4 @@ img-2 {
     max-width: 600px;
     order: 3;
     text-align: center
-}
+}}
